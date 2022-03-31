@@ -1,6 +1,8 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
+这个仓库是由p3TERX大佬的仓库修改来的，添加了edge和argon两个主题，更改了工作流文件，上传.config文件后启动工作流可以在编译固件的同时上传dl文件夹
+具体可参考视频，https://www.bilibili.com/video/BV1eY4y1s7SN
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)
